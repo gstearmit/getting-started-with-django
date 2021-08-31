@@ -9,6 +9,9 @@
   </p>
 </p>
 
+#-----Video----------
+https://www.youtube.com/watch?v=fOukA4Qh9QA&t=3188s&ab_channel=JustDjango
+
 # Getting started with Django
 
 This is the code from the course "Getting Started With Django", found on YouTube and JustDjango
